@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **COLLEGE Project**
 
-- 🌱 I’m currently learning **Android app development, Django**
+- 🌱 I’m currently learning **Android app development,Web-Dev
 
 - 🤝 I’m looking for help with **Android Development**
 
