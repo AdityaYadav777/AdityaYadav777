@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android app Development**
 
-- 📫 How to reach me **adityayadav322003@gmail.com**
+- 📫 How to reach me **devoaditya7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
