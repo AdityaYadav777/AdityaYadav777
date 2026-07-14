@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityayadav777&label=Profile%20views&color=0e75b6&style=flat" alt="adityayadav777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **COLLEGE Project**
+- 🌱 I’m currently learning System Architect
 
-- 🌱 I’m currently learning **Android app development,Web-Dev
-
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [Check_My_Repo](https://github.com/AdityaYadav777?tab=repositories)
 
-- 💬 Ask me about **Android app Development**
+- 💬 Ask me about **Mobile app Development**
 
 - 📫 How to reach me **devoaditya7@gmail.com**
 
